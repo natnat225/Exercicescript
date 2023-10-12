@@ -1,0 +1,1 @@
+mkdir Public/{css/{footer/,header/,main/},img/,js/}, && touch Public/index.html && touch Public/css/footer/style.css && touch Public/css/header/style.css && touch Public/css/main/style.css && touch Public/img/img1 && touch Public/img/img2 && touch Public/js/main.js
